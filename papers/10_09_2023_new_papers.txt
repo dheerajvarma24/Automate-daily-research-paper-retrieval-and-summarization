@@ -1,0 +1,18 @@
+Title: Explainable and Trustworthy Traffic Sign Detection for Safe Autonomous  Driving: An Inductive Logic Programming Approach
+
+This paper presents an Inductive Logic Programming (ILP) based approach for stop sign detection in autonomous vehicles (AVs) that is robust against adversarial attacks. The method uses high-level features of a sign, such as shape, color, and text, to detect different categories of traffic signs. The approach is able to correctly identify stop signs even in the presence of two adversarial attacking methods: Robust Physical Perturbation (PR2) and Adversarial Camouflage (AdvCam). The ILP-based technique requires minimal training data and is fully explainable, making it possible to debug AVs.
+
+
+
+Title: Algebraic Models for Qualified Aggregation in General Rough Sets, and  Reasoning Bias Discovery
+
+This paper introduces algebraic models for combining things in generalized rough sets over lattices with approximation operators. The models are motivated by the desire to model skeptical or pessimistic, and optimistic or possibilistic aggregation in human reasoning. The paper proves fundamental results on weak negations and implications, and suggests that the model is suitable for studying discriminatory/toxic behavior in human reasoning and machine learning algorithms that learn such behavior.
+
+
+
+Title: Companion Animal Disease Diagnostics based on Literal-aware Medical  Knowledge Graph Representation Learning
+
+This paper presents a knowledge graph embedding model called LiteralKG for the diagnosis of animal diseases using electronic medical records (EMRs). The model is designed to capture the heterogeneous properties and various types of literal information present in the EMRs. It fuses different types of entities and node feature information into unified vector representations using gate networks. The model also utilizes self-supervised learning to learn the graph structure in pretext tasks, which improves performance on downstream tasks. Experimental results show that LiteralKG outperforms other state-of-the-art models in link prediction tasks.
+
+
+

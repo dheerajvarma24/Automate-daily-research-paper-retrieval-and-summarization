@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.2
+openai==0.28.0
+transformers==4.33.1
+slackclient==2.9.4
+python-dotenv==1.0.0

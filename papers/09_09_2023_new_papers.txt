@@ -1,0 +1,18 @@
+Title: Explainable and Trustworthy Traffic Sign Detection for Safe Autonomous  Driving: An Inductive Logic Programming Approach
+
+This paper proposes an Inductive Logic Programming (ILP) based approach for stop sign detection in Autonomous Vehicles (AVs). The approach utilizes high-level features of a sign, such as its shape, color, and text, to detect categories of traffic signs. This method is more robust against adversarial attacks than current deep neural network (DNN) classifiers. The proposed ILP-based technique is able to correctly identify stop signs even in the presence of adversarial attacks, and it requires minimal training data and is fully explainable for debugging AVs.
+
+
+
+Title: Algebraic Models for Qualified Aggregation in General Rough Sets, and  Reasoning Bias Discovery
+
+This paper introduces algebraic models for combining things in generalized rough sets over lattices with approximation operators. The models are motivated by the desire to model skeptical and optimistic aggregation in human reasoning. The paper proves fundamental results on weak negations and implications, and suggests that the model can also be used to study discriminatory behavior in human reasoning and machine learning algorithms that learn such behavior.
+
+
+
+Title: Companion Animal Disease Diagnostics based on Literal-aware Medical  Knowledge Graph Representation Learning
+
+This paper presents LiteralKG, a knowledge graph embedding model for the diagnosis of animal diseases using electronic medical records (EMRs). The model aims to learn representations that capture both graph structure and different types of literal information. It does this by constructing a knowledge graph from EMRs and incorporating node feature information into vector representations through gate networks. The model also uses self-supervised learning tasks to learn graph structure. Experimental results show that LiteralKG outperforms other state-of-the-art models on link prediction tasks. The source code for the model is available on GitHub.
+
+
+
