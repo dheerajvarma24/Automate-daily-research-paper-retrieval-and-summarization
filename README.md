@@ -40,9 +40,12 @@ pip install -r requirements.txt
 airflow standalone
 ~~~
 
-This will send the summary of the latest papers to your slack channel. You can also check the summary in the SQLite DB.
+This will send the summary of the latest papers to your slack channel. You can also check the summary in the SQLite DB. This will also save a copy of the summary in the `./papers` directory.
 
-If you wish to login to the airflow's webserver, goto localhost:8080 and login with the username and password. Search for the 'airflow standalone' logs for the temporary username and password.
+If you wish to login to the airflow's webserver, goto localhost:8080 and login with the username and password. Search for the `airflow standalone` logs for the temporary username and password.
+
+DAG structure is as follows:
+![DAG](./papers/DAG-workflow.png)
 
 
 
