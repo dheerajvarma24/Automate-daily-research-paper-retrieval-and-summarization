@@ -1,4 +1,4 @@
-.env
+*.pyc
 1-Dockerfile
 Dockerfile
 docker-compose.yaml
@@ -6,4 +6,5 @@ launch.json
 del.py
 install.sh
 summary.db
+.env
 
