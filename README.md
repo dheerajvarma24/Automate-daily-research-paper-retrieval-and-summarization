@@ -62,7 +62,7 @@ If you wish to login to the airflow's webserver, goto localhost:8080 and login w
 
 ## NOTE on OpenAI API Free users.
 It gives a free one-time 5-dollar credit.
-Only 3 requests can be sent to their LLM models per minute.
+Only 3 requests can be sent to their LLM models per minute. Therefore at the moment only top 3 papers are being summarised and sent to slack.
 
 ## Further TODO's
 1. Use Hugging Face LLM models and give the user the choice to choose from OPENAI GPT models vs hf LLM models.
